@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+div{
+	text-align: center;
+}
+img{
+	width: 50%;
+	height: auto;
+	opacity: 100%
+}
+p{
+	text-align: center;
+}
